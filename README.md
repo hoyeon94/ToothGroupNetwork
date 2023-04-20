@@ -1,3 +1,6 @@
+# Notice
+- This repository contaisn 
+
 # ToothGroupNetwork
 - Team CGIP
 - Ho Yeon Lim and Min Chang Kim 
@@ -43,7 +46,7 @@ and so on...
 
 
 # How To Train Model
-- if you want to train our model, please contact me
+- 
 
 # installation
 - Installtion is tested on pytorch/pytorch:1.7.1-cuda11.0-cudnn8-devel(ubuntu, pytorch 1.7.1)
